@@ -1,3 +1,3 @@
 # Pricing4Python
 
-Proyecto base en Flask con estructura estilo Pricing4Java.
+Proyecto base en Flask y Python adaptando Pricing4Java.

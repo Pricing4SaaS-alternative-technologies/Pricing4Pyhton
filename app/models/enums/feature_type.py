@@ -1,0 +1,13 @@
+from enum import Enum
+
+class FeatureType(Enum):
+    INFORMATION = "INFORMATION"
+    INTEGRATION = "INTEGRATION"
+    DOMAIN = "DOMAIN"
+    AUTOMATION = "AUTOMATION"
+    MANAGEMENT = "MANAGEMENT"
+    GUARANTEE = "GUARANTEE"
+    SUPPORT = "SUPPORT"
+    PAYMENT = "PAYMENT"
+
+
